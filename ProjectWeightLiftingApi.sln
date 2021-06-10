@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectWeightLifting.Api", "ProjectWeightLifting.Api\ProjectWeightLifting.Api.csproj", "{628AE619-C0A7-437C-862A-6FB95A3AC089}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{607DA5BD-7B35-4B01-8B91-79F6FA26367F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607DA5BD-7B35-4B01-8B91-79F6FA26367F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607DA5BD-7B35-4B01-8B91-79F6FA26367F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607DA5BD-7B35-4B01-8B91-79F6FA26367F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{628AE619-C0A7-437C-862A-6FB95A3AC089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628AE619-C0A7-437C-862A-6FB95A3AC089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628AE619-C0A7-437C-862A-6FB95A3AC089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628AE619-C0A7-437C-862A-6FB95A3AC089}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7EAD1CC-9AD0-4E13-9B5E-D6766E0965FB}
+	EndGlobalSection
+EndGlobal
